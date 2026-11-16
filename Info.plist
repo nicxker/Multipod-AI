@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>nicxker AI</string>
+    <key>CFBundleDisplayName</key>
+    <string>nicxker AI</string>
+    <key>CFBundleIdentifier</key>
+    <string>de.nicxker.ai</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleExecutable</key>
+    <string>NicxkerAI</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>MinimumOSVersion</key>
+    <string>5.0</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>armv7</string>
+    </array>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>CFBundleIconFiles</key>
+    <array>
+        <string>Icon.png</string>
+        <string>Icon@2x.png</string>
+    </array>
+    <key>NSCameraUsageDescription</key>
+    <string>nicxker AI needs camera access to analyze photos</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>nicxker AI needs microphone access for voice commands</string>
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleBlackOpaque</string>
+</dict>
+</plist>
+
